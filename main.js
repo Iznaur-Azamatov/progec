@@ -13,26 +13,22 @@
 //     return 'Вот вам 10$';
 // }
 // getMoney()
-// function getMoney(cash = 100) {
-//     return 'Вот вам'  
-//     {cash}$;
-     
+// function getMoney(cash) {
+//    console.log(`Вот вам ${cash}`);
+
 //   }
-  
+//   getMoney('100$')
 // function squareNumber(num){
     
 //     console.log(num * num);
 // }
-// squareNumber(4)
-// function findMaxNumber() {
-//     let max = arguments0;
-//     for (let i = 1; i < arguments.length; i++) {
-//       if (argumentsi > max) {
-//         max = argumentsi;
-//       }
-//     }
-//     console.log(max);
+// function maxNumber(n1,n2,n3) {
+//  return Math.max(n1,n2,n3);
+  
 //   }
+//   console.log(maxNumber(1, 2, 3));
+ 
+  
   
 //   findMaxNumber(4, 7, 2);
 
